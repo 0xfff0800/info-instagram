@@ -38,7 +38,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 5. ```python3 FaLaH.py ```
 
 
-## A Windows operating system. We recommend :
+## A Kali Linux operating system. We recommend :
 - Kali Linux 2 or Kali 2016.1 rolling 
 - Cyborg
 - Parrot 
